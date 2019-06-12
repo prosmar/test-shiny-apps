@@ -4,7 +4,7 @@ library(shiny)
 shinyUI(pageWithSidebar(
   
   # Application title
-  headerPanel("This is a testing only"),
+  headerPanel("Test Update Title"),
   
   # Sidebar with a slider input for number of observations
   sidebarPanel(
